@@ -4,4 +4,6 @@
 
 สำหรับรายวิชา [OOP](https://sirikan711.github.io)
 
+![banner](./banner.jpg)
+
 ศิริกานต์ อ้อมแก้ว
