@@ -5,6 +5,6 @@
 สำหรับรายวิชา [OOP](https://sirikan711.github.io)
 ศิริกานต์ อ้อมแก้ว
 
-![dl banner](banner.jpg)
+![download banner](banner.jpg)
 # Manhwa
 _คำที่ใช้เรียกการ์ตูนในภาษาเกาหลี_
