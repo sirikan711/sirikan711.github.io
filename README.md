@@ -5,6 +5,6 @@
 สำหรับรายวิชา [OOP](https://sirikan711.github.io)
 ศิริกานต์ อ้อมแก้ว
 
-![download banner](banner.jpg)
+![download banner](top-10-most-popular-action-fantasy-manhwa-solo-levelling-a-v0-e2uerm4ce7n91)
 # Manhwa
 _คำที่ใช้เรียกการ์ตูนในภาษาเกาหลี_
