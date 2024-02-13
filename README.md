@@ -3,7 +3,8 @@
 # สมุดบันทึก
 
 สำหรับรายวิชา [OOP](https://sirikan711.github.io)
-
-![banner](./banner.jpg)
-
 ศิริกานต์ อ้อมแก้ว
+
+![top-10-most-popular-action-fantasy-manhwa-solo-levelling-a-v0-e2uerm4ce7n91](https://github.com/sirikan711/sirikan711.github.io/assets/159878412/a7b0de65-22de-4a87-aa16-ed78173bedaa)
+# Manhwa
+_คำที่ใช้เรียกการ์ตูนในภาษาเกาหลี_
